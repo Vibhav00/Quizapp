@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/91911/AndroidStudioProjects/quizapp/app/src/main/res/drawable/backgrandkkkk.xml" value="0.19583333333333333" />
+        <entry key="..\:/Users/91911/AndroidStudioProjects/quizapp/app/src/main/res/drawable/correct_option_boarder_bg.xml" value="0.19583333333333333" />
+        <entry key="..\:/Users/91911/AndroidStudioProjects/quizapp/app/src/main/res/drawable/selected_option_boarder_bg.xml" value="0.1609375" />
+        <entry key="..\:/Users/91911/AndroidStudioProjects/quizapp/app/src/main/res/drawable/wrong_option_boarder_bg.xml" value="0.19583333333333333" />
+        <entry key="..\:/Users/91911/AndroidStudioProjects/quizapp/app/src/main/res/layout/activity_main.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/91911/AndroidStudioProjects/quizapp/app/src/main/res/layout/activity_quiz_questionsactivity.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/91911/AndroidStudioProjects/quizapp/app/src/main/res/layout/activity_result.xml" value="0.1796875" />
+        <entry key="..\:/Users/91911/AndroidStudioProjects/quizapp/app/src/main/res/layout/finalpage.xml" value="0.1796875" />
+        <entry key="..\:/Users/91911/AndroidStudioProjects/quizapp/app/src/main/res/layout/lastpage.xml" value="0.1796875" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
